@@ -1,5 +1,5 @@
 module.exports = {
-TOKEN: "MTE5MjQwNDc2NzkzNTMxMTk1Mw.Gi-nfq.lGGCs-RJ_AgOOg-76GSrsm1Gbyh-2QiWSIS5B0",
+TOKEN: "MTE5MjQwNDc2NzkzNTMxMTk1Mw.GGWEbM.EbYaayO0c4KfccSIYjOOH1PwHI-pPNVIm5miTs",
 ownerID: ["1153172663838195724"], //write your discord user id. example: ["id"] or ["id1","id2"]
 botInvite: "https://discord.com/api/oauth2/authorize?client_id=1192404767935311953&permissions=8&redirect_uri=https%3A%2F%2Fkgufycfdmjhvyut-f673959e18a8.herokuapp.com%2F&scope=bot", //write your discord bot invite.
 supportServer: "idk", //write your discord bot support server invite.
